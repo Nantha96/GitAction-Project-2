@@ -26,4 +26,4 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
         name: artifact
-        path: GitAction-Project-2/target/maven.jar
+        path: maven.jar
